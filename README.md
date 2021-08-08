@@ -24,5 +24,5 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ### O que faz?
 
-O projeto é uma calculadora de gorjeta.
+O projeto é uma calculadora de gorjeta.<br>
 Ele pede que voçê insira o valor da conta total, a porcentagem de gorjeta que voçê irá dar e o número de pessoas na mesa, com isso, ele é capaz de calcular a quantia da gorjeta, dividir pelo números de pessoas e mostrar o valor total da conta somado à gorjeta.

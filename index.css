@@ -3,9 +3,6 @@ body{
     background-color: hsl(185, 41%, 84%);
     font-family: 'space mono', monospace;
 }
-.xx{
-    background-color: blue;
-}
 /* ONDE TEM AS DUAS PARTES, E ONDE CENTRALIZA A JANELA */
 #container {
     width: 99vw;
